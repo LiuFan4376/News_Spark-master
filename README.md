@@ -10,7 +10,7 @@
 
 ## 二、系统架构图设计
 
-![image](https://github.com/ZzXxL1994/News_Spark/blob/master/z_pic/news1.png)
+![image](系统架构图设计.png)
 
 
 ## 三、系统数据流程设计
