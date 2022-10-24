@@ -15,12 +15,12 @@
 
 ## 三、系统数据流程设计
 
-![image](https://github.com/ZzXxL1994/News_Spark/blob/master/z_pic/news2.png)
+![image](系统数据流程设计.png)
 
 
 ## 四、集群资源规划设计
 
-![image](https://github.com/ZzXxL1994/News_Spark/blob/master/z_pic/news3.png)
+![image](集群资源规划设计.png)
 
 
 ## 五、步骤详解
